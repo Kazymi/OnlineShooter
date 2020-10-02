@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7184dad034aa248b65cbfec11b639b, type: 3}
+  m_Name: M4Spik
+  m_EditorClassIdentifier: 
+  name: M4Spil
+  damage: 300
+  ammo: 150
+  burst: 1
+  pellets: 0
+  clipsize: 50
+  firerate: 0.7
+  bloom: 1
+  recoil: 1
+  kickback: 0.05
+  aimSpeed: 10
+  reload: 2
+  mainFOV: 0.8
+  weaponFOV: 0.583
+  gunshotSound: {fileID: 8300000, guid: b78de51db687442dcb933c062f687bb9, type: 3}
+  pitchRandomization: 0
+  shotVolume: 0.5
+  prefab: {fileID: 1997507513380148126, guid: a5e1a877d5bbee349b6083591f0b5319, type: 3}
+  display: {fileID: 6364139951464357674, guid: eea594948fd6afa48866aba218a8f77b, type: 3}
+  recovery: 0

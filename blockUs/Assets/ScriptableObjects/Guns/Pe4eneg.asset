@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7184dad034aa248b65cbfec11b639b, type: 3}
+  m_Name: Pe4eneg
+  m_EditorClassIdentifier: 
+  name: Pe4
+  damage: 150
+  ammo: 300
+  burst: 1
+  pellets: 0
+  clipsize: 100
+  firerate: 0.1
+  bloom: 6
+  recoil: 4
+  kickback: 0.05
+  aimSpeed: 10
+  reload: 3.5
+  mainFOV: 0.8
+  weaponFOV: 0.583
+  gunshotSound: {fileID: 8300000, guid: 13d6926d48b1d4ceea98e98ee457a86a, type: 3}
+  pitchRandomization: 0.05
+  shotVolume: 0.5
+  prefab: {fileID: 1997507513380148126, guid: 607493d8c134eb94a9b8df1b47280022, type: 3}
+  display: {fileID: 6364139951464357674, guid: eea594948fd6afa48866aba218a8f77b, type: 3}
+  recovery: 0
